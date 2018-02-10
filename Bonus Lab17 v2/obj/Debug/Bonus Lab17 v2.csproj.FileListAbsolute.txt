@@ -1,0 +1,7 @@
+C:\Users\adamt\source\repos\Bonus Lab17 v2\Bonus Lab17 v2\obj\Debug\Bonus Lab17 v2.csprojResolveAssemblyReference.cache
+C:\Users\adamt\source\repos\Bonus Lab17 v2\Bonus Lab17 v2\obj\Debug\Bonus Lab17 v2.csproj.CoreCompileInputs.cache
+C:\Users\adamt\source\repos\Bonus Lab17 v2\Bonus Lab17 v2\bin\Debug\Bonus Lab17 v2.exe.config
+C:\Users\adamt\source\repos\Bonus Lab17 v2\Bonus Lab17 v2\bin\Debug\Bonus Lab17 v2.exe
+C:\Users\adamt\source\repos\Bonus Lab17 v2\Bonus Lab17 v2\bin\Debug\Bonus Lab17 v2.pdb
+C:\Users\adamt\source\repos\Bonus Lab17 v2\Bonus Lab17 v2\obj\Debug\Bonus Lab17 v2.exe
+C:\Users\adamt\source\repos\Bonus Lab17 v2\Bonus Lab17 v2\obj\Debug\Bonus Lab17 v2.pdb
